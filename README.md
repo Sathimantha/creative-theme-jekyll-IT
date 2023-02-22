@@ -1,9 +1,9 @@
 # first install
 
-bundle init
-bundle add jekyll
-gem install jekyll bundler
-bundle exec jekyll serve --livereload
+    bundle init
+    bundle add jekyll
+    gem install jekyll bundler
+    bundle exec jekyll serve --livereload
 
 
 
