@@ -1,11 +1,11 @@
 # Site settings
-title: "Cutting Edge Technologies"
-email: "info@cuttingedgesl.com"
+title: "Concierge Pixel Tech Consultancy"
+email: "info@conciergepixel.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: 'ConciergePixel'
 github_username:
 
 # Build settings
